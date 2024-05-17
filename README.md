@@ -2,7 +2,7 @@
 
 <img src = 'https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv' alt = 'Programmer Day' align='right'/>
 <div style="text-align: right">A statistician can have his head in an oven and his feet in ice, and he will say that on the average he feels fine ;) </div>
-###
+
 [![Linkedin Badge](https://img.shields.io/badge/-sanjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay911/)](https://www.linkedin.com/in/sanjay911/) 
 
 ###
