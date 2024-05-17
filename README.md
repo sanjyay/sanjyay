@@ -46,12 +46,5 @@
  * Improve my knowledge in Statistics !!
  * I'm currently working on 🔭 polishing my skills 🌱 in **Python**.
 
-###
-
-<br clear="both">
-
-![snake gif](https://github.com/sanjyay/sanjyay/blob/output/github-contribution-grid-snake.gif)
-
-###
 
 If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
