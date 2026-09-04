@@ -3,9 +3,21 @@
 <img src = 'https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv' alt = 'Programmer Day' align='right'/>
 <div style="text-align: right">A statistician can have his head in an oven and his feet in ice, and he will say that on an average he feels fine ;) </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-sanjay-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanjay911/)](https://www.linkedin.com/in/sanjyyayy/) [![Gmail Badge](https://img.shields.io/badge/-sanjay.sxi6@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sanjay.sxi6@gmail.com)](mailto:sanjay.sxi6@gmail.com)
+<p align="left">
+  <a href="https://x.com/sanjyyayy">
+    <img src="https://img.shields.io/badge/@sanjyyayy-000000?style=flat-square&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/sanjyyayy/">
+    <img src="https://img.shields.io/badge/u/sanjyyayy-FF4500?style=flat-square&logo=reddit&logoColor=white" />
+  </a>
+  <a href="https://www.kaggle.com/sanjay277">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+  </a>
+  <a href="mailto:sanjay.sxi6@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
