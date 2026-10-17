@@ -1,28 +1,23 @@
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Sanjay'
-		current_work = 'Writing code'
-		hobbies = [
-				'Playing Chess',
-				'Watching YouTube',
-				'Being up all Night chasing that ONE BUG...'
-			]
-	
-	def getCity():
-		return Chennai_India()
-	
-	def Favourites():
-		OpenSource()
-		MachineLearning()
-		Statistics()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
+# Hi, I’m Sanjay
 
-## Current Works
- * Improve my knowledge in Statistics !!
- * I'm currently working on 🔭 polishing my skills 🌱 in **Python**.
+**Statistics · Data Analytics · Linux**
 
+My background is in statistics. I’m interested in understanding data, asking better questions, and drawing conclusions that hold up to scrutiny.
 
-If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!! :grimacing: )
+I enjoy the process of analysis: exploring a dataset, checking assumptions, choosing suitable methods, and explaining the results clearly—including what they leave uncertain.
+
+### What interests me
+
+- **Statistics:** probability, inference, and understanding uncertainty.
+- **Data analytics:** finding patterns, investigating differences, and turning observations into useful explanations.
+- **Machine learning:** understanding how models work, how to evaluate them, and when their predictions deserve confidence.
+
+Python is my main language for exploring these interests.
+
+### Beyond data
+
+I also enjoy Linux and open source—understanding how my system works, making it fit the way I work, and contributing improvements along the way.
+
+Away from the keyboard, I enjoy chess. Sometimes, a stubborn bug keeps me at the keyboard longer than planned.
+
+[LinkedIn](https://www.linkedin.com/in/sanjyyayy/) · [Kaggle](https://www.kaggle.com/sanjay277) · [Email](mailto:sanjay.sxi6@gmail.com)
